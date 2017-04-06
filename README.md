@@ -14,7 +14,8 @@ Picture yourself as a backend engineer for a NASA fan website that generates a l
 # Overall Summary
 
 For this project, the programming language I pick is Java. My code implements the basic four feature, and an additional feature to generate the top 10 busiest hours which are not overlap with each other. I have wrote 8 classes to support the implementation, and a main class for implementation.
-
+However, Since I didn't know that we need to update the busiest hour by every second until the last day, I didn't have enough time to modify and I am not able to pass the hours test. I believe my result is correct if I got enough data rather than only six.
+ 
 User can run run.sh script to implement the program. Note that the input for the script should follow this order:
 input file name, host file name, resources file name, busyHours file name, blocked name, overlap option(true or false)
 
