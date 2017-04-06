@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="fansite-analytics-challenge-master:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/fansite_analytics_challenge_master_jar</output-path>
+    <root id="archive" name="fansite-analytics-challenge-master.jar">
+      <element id="module-output" name="fansite-analytics-challenge-master" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/fansite.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../cs61b/joda-time-2.9.8/joda-time-2.9.8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../cs61b/joda-time-2.9.8/joda-time-2.9.8-javadoc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../cs61b/joda-time-2.9.8/joda-time-2.9.8-no-tzdb.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../cs61b/joda-time-2.9.8/joda-time-2.9.8-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../cs61b/joda-time-2.9.8/joda-time-2.9.8-no-tzdb-sources.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

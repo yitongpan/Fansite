@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="fansite">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/fansite.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

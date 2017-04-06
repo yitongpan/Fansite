@@ -78,7 +78,8 @@ Time node class keeps check of the total count for each time interval. It can be
 Libraries used: `org.joda.time.DateTime`
 
 ### Time Module
-Time Module class is used to update the number of counts within the hour. It updates the file every second with a 
+Time Module class is used to update the number of counts within the hour. It updates the file every second. It has two helper classes. One to make a Time Queue and the other one to make a list of TimeQueues.
+
 
 Libraries used: `org.joda.time.DateTime` for Date Time computation and comaprison.
 

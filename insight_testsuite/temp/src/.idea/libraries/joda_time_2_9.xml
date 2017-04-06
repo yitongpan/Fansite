@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="joda-time-2.9">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../cs61b/joda-time-2.9.8" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../cs61b/joda-time-2.9.8/src/example" />
+      <root url="file://$PROJECT_DIR$/../../cs61b/joda-time-2.9.8/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../cs61b/joda-time-2.9.8/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../../cs61b/joda-time-2.9.8" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../../cs61b/joda-time-2.9.8" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../cs61b/joda-time-2.9.8" recursive="false" type="SOURCES" />
+  </library>
+</component>
